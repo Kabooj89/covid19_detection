@@ -16,7 +16,6 @@ https://github.com/ieee8023/covid-chestxray-dataset
 VGG16 model was utilized as base model, the layers were freezed and on top of it some more layers were added. The model was trained on 370 samples of data and tested on 36 samples. The testing accuracy currently reported is 95%.
 
 ![ROC curve of model](https://github.com/hananshafi/covid19-detection/blob/master/covid-roc.png)
-
 ![Confusion matrix](https://github.com/hananshafi/covid19-detection/blob/master/cmatrix.JPG)
 
 Confusion Matrix (accuracy 98%, sensitiviy 93% and specificity 100%)
@@ -29,5 +28,5 @@ Total Patietns Diagnosed with Covid-19: 28
 
 
 # Here is the the result of model on one of the samples:
-
+![Initial Result](https://github.com/hananshafi/covid19-detection/blob/master/covid-xray-umap.png)
 ![X-Ray of COVID-19 Positive patient](https://github.com/hananshafi/covid19-detection/blob/master/covid-19.JPG)
