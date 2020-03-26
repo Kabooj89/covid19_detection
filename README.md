@@ -28,5 +28,5 @@ Total Patietns Diagnosed with Covid-19: 28
 
 
 # Here is the the result of model on one of the samples:
-![Initial Result](https://github.com/hananshafi/covid19-detection/blob/master/covid-xray-umap.png)
-![X-Ray of COVID-19 Positive patient](https://github.com/hananshafi/covid19-detection/blob/master/covid-19.JPG)
+![Initial Result](covid-xray-umap.png)
+![X-Ray of COVID-19 Positive patient](covid-19.JPG)
