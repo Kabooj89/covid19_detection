@@ -1,4 +1,4 @@
-# covid19-detection
+# Corona Virus (COVID19) Detection System
 The Project aims to scan patients to predict COVID-19 from chest X-Ray/CT using Deep Learning. The model currently has 98% accuracy. The python notebook document(ipynb) contains the code for training and testing.
 
 # Goal
